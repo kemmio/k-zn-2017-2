@@ -1,1 +1,1 @@
-echo "ls -al" >&2
+echo "ls -al > 1.txt" >&2
