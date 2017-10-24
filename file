@@ -1,1 +1,1 @@
-echo "sleep 10" >&2
+sleep 10
