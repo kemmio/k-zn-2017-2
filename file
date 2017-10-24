@@ -1,1 +1,1 @@
-echo "ls -al > 1.txt" >&2
+echo "sleep 10" >&2
